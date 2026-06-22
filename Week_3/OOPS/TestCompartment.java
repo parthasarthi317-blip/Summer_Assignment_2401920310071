@@ -1,4 +1,4 @@
-package Summer_Assignment_2401920310071.Week_3.OOPS;
+package Week_3.OOPS;
 
 abstract class Compartment {
 
